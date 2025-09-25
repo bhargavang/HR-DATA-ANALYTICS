@@ -37,7 +37,7 @@ The dashboard helps visualize and analyze:
 
 📷 Dashboard Previews
 - 
-
+![image_alt]()
 
 ---
 

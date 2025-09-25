@@ -37,7 +37,7 @@ The dashboard helps visualize and analyze:
 
 📷 Dashboard Previews
 - 
-![image_alt]()
+![image_alt](https://github.com/bhargavang/HR-DATA-ANALYTICS/blob/c3367d9e174de69e1d7e06b55e4e9fea32015104/dashboard.png)
 
 ---
 
